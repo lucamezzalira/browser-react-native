@@ -75,8 +75,3 @@ var styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('WebBrowser', () => WebBrowser);
-
-
-/*
-TODO: JSON for data
-*/
